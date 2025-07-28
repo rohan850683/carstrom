@@ -139,12 +139,12 @@ function App() {
 <div className="section-container">
   <h1 className="section-title">Toyota</h1>
   <div className="car-section">
-    <Cart Image="https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner-Legender/10229/1749726924621/front-left-side-47.jpg" Card="Fortuner" Some="The Fortuner is a popular Car.Its is powerful." Go="Buy Now" url="http://localhost:5173/xuv700" />
+    <Cart Image="https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner-Legender/10229/1749726924621/front-left-side-47.jpg" Card="Fortuner" Some="The Fortuner is a popular Car. Manufactured by the Japanese automaker Toyota since 2004.." Go="Buy Now" url="http://localhost:5173/xuv700" />
     <Cart Image="https://www.tyremarket.com/tyremantra/wp-content/uploads/2020/04/toyota-glanza.jpg" Card="Glanza" Some="The Glanza is a rugged and powerful Car. Its is under budget car" Go="Buy Now" url="http://localhost:5173/thar" />
     <Cart Image="https://imagecdnsa.zigwheels.ae/large/gallery/exterior/40/1867/toyota-innova-hycross-front-angle-low-view-446020.jpg" Card="Innova" Some="The Innova Classic is a rugged and powerful SUV. Large in Space" Go="Buy Now" url="http://localhost:5173/scorpio" />
     <Cart Image="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/64725b6d365a8f001d7f50a1.jpg" Card="Supra" Some="The Supra is a popular utility vehicle in India.Most famous Vehicle in India" Go="Buy Now" url="http://localhost:5173/bolero" />
     <Cart Image="https://media.ed.edmunds-media.com/toyota/corolla-cross/2025/oem/2025_toyota_corolla-cross_4dr-suv_l_fq_oem_1_1280.jpg" Card="Corolla-Cross" Some="The Corolla-Cross is an upcoming powerful SUV. This is powerful" Go="Buy Now" url="http://localhost:5173/be-6" />
-    <Cart Image="https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Hilux/10924/1691990326111/front-left-side-47.jpg" Card="Hilux" Some="The Hilux 4x4 is a large, 7-seate SUV" Go="Buy Now" url="http://localhost:5173/alturas" />
+    <Cart Image="https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Hilux/10924/1691990326111/front-left-side-47.jpg" Card="Hilux" Some="The Hilux 4x4 is a large, 7-seate SUV. the use of four-wheel drive. It had a solid front axle suspension. " Go="Buy Now" url="http://localhost:5173/alturas" />
   </div>
 </div>
 
