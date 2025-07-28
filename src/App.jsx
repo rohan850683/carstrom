@@ -85,7 +85,7 @@ function App() {
 <div className="section-container">
   <h1 className="section-title">Maruti Suzuki</h1>
   <div className="car-section">
-  <Cart Image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq0ULs5E-JppjB_CuPgkaM79cbhz5yO-VYHg&s" Card="Swift" Some="The Maruti Suzuki Swift is a popular compact hatchback known for its sporty design..." Go="Buy Now" url="model" />
+  <Cart Image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq0ULs5E-JppjB_CuPgkaM79cbhz5yO-VYHg&s" Card="Swift" Some="The Maruti Suzuki Swift is a popular compact hatchback known for its sporty design..." Go="Buy Now" url="/model" />
     <Cart Image="https://img.autocarindia.com/ExtraImages/20241218020740_20190131081704_2019_Maruti_Wagon_R_front_1.jpg" Card="Wagnor" Some="This perfect combination of space, fuel efficiency, reliability..." Go="Buy Now" url="http://localhost:5173/wagnor" />
     <Cart Image="https://imgd-ct.aeplcdn.com/664x415/n/xbceora_1420353.jpg?q=80" Card="Alto" Some="The Maruti Suzuki Alto K10 refers to the model generations..." Go="Buy Now" url="http://localhost:5173/alto" />
     <Cart Image="https://imgcdn.sayaratbay.com/large/gallery/exterior/39/1760/suzuki-baleno-front-angle-low-view-830235.jpg" Card="Baleno" Some="The Maruti Suzuki Baleno is a premium hatchback available in India..." Go="Buy Now" url="http://localhost:5173/baleno" />
