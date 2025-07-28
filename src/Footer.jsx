@@ -99,6 +99,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <p>&copy; 2025 CarStrom. All rights reserved.</p>
+                  <p>This Website is Made by Rohan</p>
       </div>
     </footer>
   );
